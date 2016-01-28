@@ -1,4 +1,3 @@
-# *Official*
-**apprendre pour servie**
-:smile:
-:satisfait:
+for (int i = 0; i <a.length; i ++) 
+{a [i] = 
+0;}
